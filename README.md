@@ -1,8 +1,14 @@
-- 👋 Hi, I’m  Rahul
-- 👀 I’m interested in Backend Developer in java
-- 🌱 I have completed my bachelor Dergree of Computer of Application 
-- 💞️ I get skill certificate as Java Developer from Aptron IT institue of Traning of Gurgaon.
-- 📫 How to reach me
-- Mobile no . 8221020123
-- Email id .  rk79676rahul@gmail.com
+ Hi, I’m  Rahul!
+ **ASpiring Java Backend Developer| Passionate Learner| Tech Enthusiast**
+ 
+ I’m interested in Backend Development using Java and Spring Boot.
+ Completed Bachelor's Dergree in Computer Application (BCA). 
+ Certified Java Developer from Aptron IT Institue  of Gurugram.
+ 
+ **Skills:**
+ Core Java ,OOPs,JDB, MySQL, REST APIs, Servlet, Spring FrameWork, Hibernate, Git&Github
+ 
+ **Contact Me:**
+ **Mobile**. 8221020123
+ **Email id .**  rk79676rahul@gmail.com
 
